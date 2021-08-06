@@ -15,11 +15,11 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 * 1x L293D Motor Drive Shield        - Rs.150                                    
 * 1x 28B28BYJ-48 DC 5V Stepper Motor - Rs.150
   + ULN2003 Driver Test Module Board
-* 2 X Command Large Plastic Hooks for walls, -Rs. 140
- 1 Hook and 2 Strips, Holds 2.2kg, Self Adhesive, Damage Free Walls
+* 2 X Command Large Plastic Hooks for walls -Rs. 140
 * Rope - DYNAMICA XBO       	     - Rs.350
-				     Total- Rs.3040
-
+* Total- Rs.3040				     
+## Workflow
+   
 ## Mechanical Aspect of the Design
  
 ## Electronics Aspect of the Design
