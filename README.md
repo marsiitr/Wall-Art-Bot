@@ -23,6 +23,10 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 ## Mechanical Aspect of the Design
    #### 1.Pulley Movement
    Used Stepper motors to rotate pulleys and helps the pen to reach desired coordinate.
+   #### 2.Pen Module
+   The pen module which is a disc contains 3 pen holders and the disc rotates using a stepper motor and then there are ball bearings that ease the rotation of the disc.
+   #### 3.Pen Lifting
+   Reck and Pinion mechanism helps us to lift the whole bot by providing perpendicular force on the wall while the pen module is in the process of rotation.
  
 ## Electronics Aspect of the Design
  In this project, OpenCV is used for image processing and the coordinates are stored in the form of a 30-30 array. Which are sent to arduino through serial transfer library. Then every coordinate is transformed into the length of two strings, which is again converted into number of steps of individual stepper motors.
