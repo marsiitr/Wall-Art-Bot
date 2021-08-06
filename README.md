@@ -2,8 +2,8 @@
 Open Projects 2021
 
 ## Abstract
-![](Image%20and%20Videos/Mechanical%20Design%20Images/Multiple%20view.png)
 The main aim of this project is to draw a desired sketch on a wall.
+![](Image%20and%20Videos/Mechanical%20Design%20Images/Multiple%20view.png)
 
 ## Motivation
 We always want to draw pictures from what we see scrolling on the web. But it's always difficult to convince the professional painter to draw the exact same picture on our walls. This project helps users to draw the exact same sketch that they have uploaded.
