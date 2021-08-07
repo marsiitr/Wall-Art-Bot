@@ -38,7 +38,17 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 ## Electronics Aspect of the Design
  In this project, OpenCV is used for image processing and the coordinates are stored in the form of a 30-30 array. Which are sent to arduino through serial transfer library. Then every coordinate is transformed into the length of two strings, which is again converted into number of steps of individual stepper motors.
  
- 
+## Cost Structre
+| Components | Quantity | Cost (in INR) |
+|:----------------------------------:|:-------:|:------------:|
+| Nema 11/17 Stepper Moto | 2 | 1000 |
+| Arduino Mega | 1 | 1000 |
+| MG90S Servo Motor  | 1 | 250 |
+| L293D Motor Drive Shield | 1 | 150 |
+| 28B28BYJ-48 DC 5V Stepper Motor(with ULN2003 Driver) | 1 | 150 |
+| Command Large Plastic Hooks for walls | 2 | 280 |
+| Rope - DYNAMICA XBO | 2m | 350 |
+|Total Cost|    | 3180  |
 
 ## Applications
 The wall art bot is planned to draw or sketch a picture which the user has in his laptop or phone.
