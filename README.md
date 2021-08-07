@@ -31,13 +31,16 @@ The main aim of this project is to draw a desired sketch on a wall.
   <br><i>Workflow</i>
   </p>
   
-## Mechanism
+## Mechanism and Control
+
   The logic of our bot is shown in below figure:
  
   <p align="center">
   <img src="Image%20and%20Videos/Electronics%20Mechanism/Electronics%20mechanism.jpeg" alt="Mechanism" height="700" width="650">
   <br><i>Mechanism</i>
   </p>
+  
+  The left upper corner of workspace area is set as origin. We have all the coordinates in the form of an array and for each coordinates, we calculate the length of both the string from the above figure. Using the data, Steps per MM for each motor, we convert the length of the strings to the steps value for both the motors.
   
 ## Mechanical Aspect of the Design
    #### 1.Pulley Movement
