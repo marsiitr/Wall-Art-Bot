@@ -73,7 +73,7 @@ The main aim of this project is to draw a desired sketch on a wall.
 ## Cost Structre
 | Components | Quantity | Cost (in INR) |
 |:----------------------------------:|:-------:|:------------:|
-| Nema 11/17 Stepper Moto | 2 | 1000 |
+| Nema 11/17 Stepper Motor | 2 | 1000 |
 | Arduino Mega | 1 | 1000 |
 | MG90S Servo Motor  | 1 | 250 |
 | L293D Motor Drive Shield | 1 | 150 |
