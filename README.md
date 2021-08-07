@@ -64,8 +64,8 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 ## Electronics Aspect of the Design
  In this project, OpenCV is used for image processing and the coordinates are stored in the form of a 30-30 array. Which are sent to arduino through serial transfer library. Then every coordinate is transformed into the length of two strings, which is again converted into number of steps of individual stepper motors.
  <p align="center">
-  <img src="Image%20and%20Videos/Electronics%20Mechanism/circuit%20diagram.jpeg" alt="circuit diagram" height="250" width="500">
-  <i>Circuit diagram</i>
+  <img src="Image%20and%20Videos/Electronics%20Mechanism/circuit_diagram.png" alt="circuit diagram" height="500" width="810">
+  <br><i>Circuit diagram</i>
   </p>
  
 ## Cost Structre
