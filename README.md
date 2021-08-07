@@ -77,7 +77,7 @@ The main aim of this project is to draw a desired sketch on a wall.
 | Arduino Mega | 1 | 1000 |
 | MG90S Servo Motor  | 1 | 250 |
 | L293D Motor Drive Shield | 1 | 150 |
-| 28B28BYJ-48 DC 5V Stepper Motor(with ULN2003 Driver) | 1 | 150 |
+| 28BYJ-48 DC 5V Stepper Motor(with ULN2003 Driver) | 1 | 150 |
 | Command Large Plastic Hooks for walls | 2 | 280 |
 | Rope - DYNAMICA XBO | 2m | 350 |
 |Total Cost|    | 3180  |
