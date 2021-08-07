@@ -83,7 +83,10 @@ The main aim of this project is to draw a desired sketch on a wall.
 |Total Cost|    | 3180  |
 
 ## Applications
-The wall art bot is planned to draw or sketch a picture which the user has in his laptop or phone.
+
+* The wall art bot is planned to draw or sketch a picture which the user has in his laptop or phone.
+* This bot has three pen holders so, it can draw a picture with three different colors.
+
 ## Limitations
 
 * If the two points from where the two strings are attached are not in the same level then the drawn picture will also be tilted.
