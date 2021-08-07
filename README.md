@@ -1,5 +1,5 @@
 # Wall-Art-Bot
-Open Projects 2021
+## Open Projects 2021
 
 ## Abstract
 The main aim of this project is to draw a desired sketch on a wall.
@@ -109,8 +109,8 @@ Raspberry pi can be used instead of Arduino to overcome the problem with limited
 2. [Parul Chaudhary](https://github.com/Parul253)
 
 ## References
-* http://42bots.com/tutorials/28byj-48-stepper-motor-with-uln2003-driver-and-arduino-uno/
-* https://github.com/PowerBroker2/pySerialTransfer
-* https://www.youtube.com/watch?v=T0jwdrgVBBc&t=72s&ab_channel=MERTArduino%26Tech
-* https://www.youtube.com/watch?v=FbR9Xr0TVdY&ab_channel=ProgrammingKnowledge
-* https://www.hackster.io/fredrikstridsman/stringent-the-15-wall-plotter-d965ca#overview
+- [Stepper Motor Guides](http://42bots.com/tutorials/28byj-48-stepper-motor-with-uln2003-driver-and-arduino-uno/)
+- [pySerial Transfer](https://github.com/PowerBroker2/pySerialTransfer)
+- [OpenCV Guides for Image Processing](https://www.youtube.com/watch?v=FbR9Xr0TVdY&ab_channel=ProgrammingKnowledge)
+- [XY Plotter Project](https://www.youtube.com/watch?v=T0jwdrgVBBc&t=72s&ab_channel=MERTArduino%26Tech)
+- [Wall Plotter Project](https://www.hackster.io/fredrikstridsman/stringent-the-15-wall-plotter-d965ca#overview)
