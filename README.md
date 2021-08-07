@@ -27,7 +27,7 @@ The main aim of this project is to draw a desired sketch on a wall.
 ## Workflow
   
    <p align="center">
-  <img src="Report%20and%20Poster/workflow.jpg" alt="Workflow" height="600" width="800">
+  <img src="Image and Videos/Images//workflow.jpg" alt="Workflow" height="600" width="800">
   <br><i>Workflow</i>
   </p>
   
