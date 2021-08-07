@@ -9,8 +9,10 @@ The main aim of this project is to draw a desired sketch on a wall.
   <br><i>Multiple View of Design</i>
   </p>
   
-## Motivation
-We always want to draw pictures from what we see scrolling on the web. But it's always difficult to convince the professional painter to draw the exact same picture on our walls. This project helps users to draw the exact same sketch that they have uploaded.
+<p align="justify">
+<h2>Motivation</h2>
+<p>We always want to draw pictures from what we see scrolling on the web. But it's always difficult to convince the professional painter to draw the exact same picture on our walls. This project helps users to draw the exact same sketch that they have uploaded.</p>
+</p>
 
 ## Components
 * 2 x Nema 11/17 Stepper Motor                                     
@@ -84,9 +86,9 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 The wall art bot is planned to draw or sketch a picture which the user has in his laptop or phone.
 ## Limitations
 
-If the two points from where the two strings are attached are not in the same level then the drawn picture will also be tilted.
+* If the two points from where the two strings are attached are not in the same level then the drawn picture will also be tilted.
 
-The dimension of the picture should not go beyond the workspace area of the bot( although the workspace area can be increased by increasing the distance between two points where strings are attached).
+* The dimension of the picture should not go beyond the workspace area of the bot( although the workspace area can be increased by increasing the distance between two points where strings are attached).
 
 ## Future Improvements
 Raspberry pi can be used instead of Arduino to overcome the problem with limited storage. And also an app can be developed such that user can upload the picture directly from the phone.
