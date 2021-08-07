@@ -100,7 +100,7 @@ Raspberry pi can be used instead of Arduino to overcome the problem with limited
 
 
 #### Mentors
-1. [Naman Agarwalla]
+1. [Naman Agarwalla](https://github.com/naman99-agar)
 2. [Parul Chaudhary](https://github.com/Parul253)
 
 ## References
