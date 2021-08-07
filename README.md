@@ -3,8 +3,12 @@ Open Projects 2021
 
 ## Abstract
 The main aim of this project is to draw a desired sketch on a wall.
-![](Image%20and%20Videos/Mechanical%20Design%20Images/Multiple%20view.png)
 
+<p align="center">
+  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Multiple%20view.png" alt="Multiple View of Design" height="600" width="850">
+  <br><i>Multiple View of Design</i>
+  </p>
+  
 ## Motivation
 We always want to draw pictures from what we see scrolling on the web. But it's always difficult to convince the professional painter to draw the exact same picture on our walls. This project helps users to draw the exact same sketch that they have uploaded.
 
@@ -19,24 +23,50 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 * Rope - DYNAMICA XBO    
 		     
 ## Workflow
-   ![](Report%20and%20Poster/workflow.jpg)
+  
+   <p align="center">
+  <img src="Report%20and%20Poster/workflow.jpg" alt="Workflow" height="600" width="800">
+  <br><i>Workflow</i>
+  </p>
+  
 ## Mechanism
   The logic of our bot is shown in below figure:
-  ![](Image%20and%20Videos/Electronics%20Mechanism/Electronics%20mechanism.jpeg)
+ 
+  <p align="center">
+  <img src="Image%20and%20Videos/Electronics%20Mechanism/Electronics%20mechanism.jpeg" alt="Mechanism" height="700" width="650">
+  <br><i>Mechanism</i>
+  </p>
+  
 ## Mechanical Aspect of the Design
    #### 1.Pulley Movement
    Used Stepper motors to rotate pulleys and helps the pen to reach desired coordinate.
-   ![](Image%20and%20Videos/Mechanical%20Design%20Images/Pulley%20movement.png)
+   <p align="center">
+  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Pulley%20movement.png" alt="Pulley Movement" height="350" width="800">
+  <br><i>Pulley Movement</i>
+  </p>
+  
    #### 2.Pen Module
    The pen module which is a disc contains 3 pen holders and the disc rotates using a stepper motor and then there are ball bearings that ease the rotation of the disc.
    
-   ![](Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20module.png)
+   <p align="center">
+  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20module.png" alt="Pen Module" height="350" width="410">
+  <br><i>Pen Module</i>
+  </p>
+ 
    #### 3.Pen Lifting
    Reck and Pinion mechanism helps us to lift the whole bot by providing perpendicular force on the wall while the pen module is in the process of rotation.
  
-  ![](Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20lifting.png)
+  <p align="center">
+  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20lifting.png" alt="Pen Lifting" height="250" width="500">
+  <br><i>Pen Lifting</i>
+  </p>
+  
 ## Electronics Aspect of the Design
  In this project, OpenCV is used for image processing and the coordinates are stored in the form of a 30-30 array. Which are sent to arduino through serial transfer library. Then every coordinate is transformed into the length of two strings, which is again converted into number of steps of individual stepper motors.
+ <p align="center">
+  <img src="Image%20and%20Videos/Electronics%20Mechanism/circuit%20diagram.jpeg" alt="circuit diagram" height="250" width="500">
+  <i>Circuit diagram</i>
+  </p>
  
 ## Cost Structre
 | Components | Quantity | Cost (in INR) |
@@ -71,7 +101,7 @@ Raspberry pi can be used instead of Arduino to overcome the problem with limited
 
 #### Mentors
 1. [Naman Agarwalla]
-2. [Parul Chaudhary]
+2. [Parul Chaudhary](https://github.com/Parul253)
 
 ## References
 * http://42bots.com/tutorials/28byj-48-stepper-motor-with-uln2003-driver-and-arduino-uno/
