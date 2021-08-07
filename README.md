@@ -20,6 +20,9 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
 * Total- Rs.3040				     
 ## Workflow
    ![](Report%20and%20Poster/workflow.jpg)
+## Mechanism
+  The logic of our bot is shown in below figure:
+  ![](Image%20and%20Videos/Electronics%20Mechanism/Electronics%20mechanism.jpeg)
 ## Mechanical Aspect of the Design
    #### 1.Pulley Movement
    Used Stepper motors to rotate pulleys and helps the pen to reach desired coordinate.
@@ -34,8 +37,8 @@ We always want to draw pictures from what we see scrolling on the web. But it's 
   ![](Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20lifting.png)
 ## Electronics Aspect of the Design
  In this project, OpenCV is used for image processing and the coordinates are stored in the form of a 30-30 array. Which are sent to arduino through serial transfer library. Then every coordinate is transformed into the length of two strings, which is again converted into number of steps of individual stepper motors.
- Electronics Mechanism Figure
- ![](Image%20and%20Videos/Electronics%20Mechanism/Electronics%20mechanism.jpeg)
+ 
+ 
 
 ## Applications
 The wall art bot is planned to draw or sketch a picture which the user has in his laptop or phone.
