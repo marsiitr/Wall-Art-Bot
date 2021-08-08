@@ -92,7 +92,8 @@ We had imported Cad model into simulink and added wall and two clamps such that 
 | 28BYJ-48 DC 5V Stepper Motor(with ULN2003 Driver) | 1 | 150 |
 | Command Large Plastic Hooks for walls | 2 | 280 |
 | Rope - DYNAMICA XBO | 2m | 350 |
-|Total Cost|    | 3180  |
+| 3D Printing | - | 4000 |
+|Total Cost|    | 7180  |
 
 ## Applications
 
