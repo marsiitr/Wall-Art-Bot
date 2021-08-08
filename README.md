@@ -73,6 +73,10 @@ The main aim of this project is to draw a desired sketch on a wall.
   <br><i>Circuit diagram</i>
   </p>
  
+## Simulation
+We had imported Cad model into simulink and added wall and two clamps such that one end of the strings rest on it 
+. Also we added blocks of  belt in simulink which acts like strings.We gave continuous commands in form of radians to the cylinders which helps to rotate the  pulleys and wind up the belt such that we get to move the bot to the desired positions.
+
 ## Cost Structre
 | Components | Quantity | Cost (in INR) |
 |:----------------------------------:|:-------:|:------------:|
