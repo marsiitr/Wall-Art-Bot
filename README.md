@@ -82,6 +82,8 @@ We had imported Cad model into simulink and added wall and two clamps such that 
   <br><i>Simulation</i>
   </p>
   
+  [Elaborative explanation](https://github.com/aries2001/Wall-Art-Bot/blob/main/Simulation/README.md)
+  
 ## Cost Structre
 | Components | Quantity | Cost (in INR) |
 |:----------------------------------:|:-------:|:------------:|
