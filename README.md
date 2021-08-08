@@ -36,7 +36,7 @@ The main aim of this project is to draw a desired sketch on a wall.
   The logic of our bot is shown in below figure:
  
   <p align="center">
-  <img src="Image%20and%20Videos/Electronics%20Mechanism/Electronics%20mechanism.jpeg" alt="Mechanism" height="700" width="650">
+  <img src="Image%20and%20Videos/Images/Electronics%20mechanism.jpeg" alt="Mechanism" height="700" width="650">
   <br><i>Mechanism</i>
   </p>
   
@@ -69,7 +69,7 @@ The main aim of this project is to draw a desired sketch on a wall.
 ## Electronics Aspect of the Design
  In this project, OpenCV is used for image processing and the coordinates are stored in the form of a 30-30 array. Which are sent to arduino through serial transfer library. Then every coordinate is transformed into the length of two strings, which is again converted into number of steps of individual stepper motors.
  <p align="center">
-  <img src="Image%20and%20Videos/Electronics%20Mechanism/circuit_diagram.png" alt="circuit diagram" height="500" width="810">
+  <img src="Image%20and%20Videos/Images/circuit_diagram.png" alt="circuit diagram" height="500" width="810">
   <br><i>Circuit diagram</i>
   </p>
  
