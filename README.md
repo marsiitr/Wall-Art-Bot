@@ -78,7 +78,7 @@ We had imported Cad model into simulink and added wall and two clamps such that 
 . Also we added blocks of  belt in simulink which acts like strings.We gave continuous commands in form of radians to the cylinders which helps to rotate the  pulleys and wind up the belt such that we get to move the bot to the desired positions.
 
  <p align="center">
-  <img src="Image%20and%20Videos/Images/Simulation.JPG" alt="Simulation" height="500" width="670">
+  <img src="Image%20and%20Videos/Images/Simulation.JPG" alt="Simulation" height="400" width="570">
   <br><i>Simulation</i>
   </p>
   
