@@ -5,7 +5,7 @@
 The main aim of this project is to draw a desired sketch on a wall.
 
 <p align="center">
-  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Multiple%20view.png" alt="Multiple View of Design" height="600" width="850">
+  <img src="Mechanical%20Design/Mechanical%20Design%20Images/Multiple%20view.png" alt="Multiple View of Design" height="600" width="850">
   <br><i>Multiple View of Design</i>
   </p>
   
@@ -46,7 +46,7 @@ The main aim of this project is to draw a desired sketch on a wall.
    #### 1.Pulley Movement
    Used Stepper motors to rotate pulleys and helps the pen to reach desired coordinate.
    <p align="center">
-  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Pulley%20movement.png" alt="Pulley Movement" height="350" width="800">
+  <img src="Mechanical%20Design/Mechanical%20Design%20Images/Pulley%20movement.png" alt="Pulley Movement" height="350" width="800">
   <br><i>Pulley Movement</i>
   </p>
   
@@ -54,7 +54,7 @@ The main aim of this project is to draw a desired sketch on a wall.
    The pen module which is a disc contains 3 pen holders and the disc rotates using a stepper motor and then there are ball bearings that ease the rotation of the disc.
    
    <p align="center">
-  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20module.png" alt="Pen Module" height="350" width="410">
+  <img src="Mechanical%20Design/Mechanical%20Design%20Images/Pen%20module.png" alt="Pen Module" height="350" width="410">
   <br><i>Pen Module</i>
   </p>
  
@@ -62,7 +62,7 @@ The main aim of this project is to draw a desired sketch on a wall.
    Reck and Pinion mechanism helps us to lift the whole bot by providing perpendicular force on the wall while the pen module is in the process of rotation.
  
   <p align="center">
-  <img src="Image%20and%20Videos/Mechanical%20Design%20Images/Pen%20lifting.png" alt="Pen Lifting" height="250" width="500">
+  <img src="Mechanical%20Design/Mechanical%20Design%20Images/Pen%20lifting.png" alt="Pen Lifting" height="250" width="500">
   <br><i>Pen Lifting</i>
   </p>
   
