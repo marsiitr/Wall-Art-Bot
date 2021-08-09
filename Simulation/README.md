@@ -15,7 +15,4 @@ simport(" name of the xml file").For this you have to install simscape multibody
 4. To simulate our bot using strings, first of all we have to get the strings into our environment  by adding the belt cable properties block into our block system
 5. Also we have to add spool blocks, pulley belt blocks which  helps the pulley to wind up the belt, belt end cable blocks which will be connected to the clamps on the wall as shown in the figure provided
 
- <p align="center">
-  <img src="Simulation/Simulation.JPG" alt="Simulation" height="400" width="570">
-  <br><i>Simulation</i>
-  </p>
+![1!](https://github.com/aries2001/Wall-Art-Bot/blob/main/Image%20and%20Videos/Images/Simulation.JPG)
