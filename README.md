@@ -129,3 +129,4 @@ Raspberry pi can be used instead of Arduino to overcome the problem with limited
 - [OpenCV Guides for Image Processing](https://www.youtube.com/watch?v=FbR9Xr0TVdY&ab_channel=ProgrammingKnowledge)
 - [XY Plotter Project](https://www.youtube.com/watch?v=T0jwdrgVBBc&t=72s&ab_channel=MERTArduino%26Tech)
 - [Wall Plotter Project](https://www.hackster.io/fredrikstridsman/stringent-the-15-wall-plotter-d965ca#overview)
+- [Matlab & Simulink Guides](https://in.mathworks.com/help/robotics/ug/manipulator-shape-tracing.html)
