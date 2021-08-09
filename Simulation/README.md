@@ -10,14 +10,19 @@ Then we run the simulation and its work fine.
  
  1. In solidworks,using "Simscape Multibody" plugin import the cad model to Simulink,which will convert your model into xml files.
  2. Then import this CAD model into Simulink using the command 
-simport(" name of the xml file").For this you have to install simscape multibody in matlab
+"smport(" name of the xml file")".For this you have to install simscape multibody in matlab
 3. Later we find that our model got converted into block system in simulink.
 4. To simulate our bot using strings, first of all we have to get the strings into our environment  by adding the belt cable properties block into our block system
 5. Also we have to add spool blocks, pulley belt blocks which  helps the pulley to wind up the belt, belt end cable blocks which will be connected to the clamps on the wall as shown in the figure provided
 
 <p align="center">
-  <img src="https://github.com/aries2001/Wall-Art-Bot/blob/main/Image%20and%20Videos/Images/Simulation.JPG" alt="Simulation" height="400" width="570">
-  <br><i>Simulation</i>
+  <img src="https://github.com/aries2001/Wall-Art-Bot/blob/main/Image%20and%20Videos/Images/block_diagram_Simulink.jpeg" alt="Block Diagram" height="450" width="900">
+  <br><i>Block Diagram</i>
   </p>
 
 6. For each coordinates of image, we gave continuous commands in form of radians to the cylinders which helps to rotate the  pulleys and wind up the belt such that we get to move the bot to the desired positions(coordinates).In this way we can draw the whole image on the wall
+
+ <p align="center">
+  <img src="https://github.com/aries2001/Wall-Art-Bot/blob/main/Image%20and%20Videos/Images/Simulation.JPG" alt="Simulation" height="500" width="570">
+  <br><i>Simulation</i>
+  </p>
